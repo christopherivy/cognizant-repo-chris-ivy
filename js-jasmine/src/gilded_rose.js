@@ -127,7 +127,7 @@ let myShop = new Shop(myItems);
 console.log(myShop.updateQuality());
 // console.log(myShop.updateQuality_old());
 
-// module.exports = {
-//   Item,
-//   Shop,
-// };
+module.exports = {
+  Item,
+  Shop,
+};
